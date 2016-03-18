@@ -1,0 +1,71 @@
+	
+   		h1 {
+	    text-align: center;
+	    background: #00005A;
+	    width: 259px;
+	    margin: auto;
+	    color: white;
+	    font-family: arial;
+		}
+
+		input.toDoItems {
+	    margin-left: 585px;
+	    margin-top: 20px;
+	    height: 38px;
+	    font-size: 20px;
+	    font-family: arial;
+		}
+
+	   	button.addBtn {
+	    margin-left: 6px;
+	    border: none;
+	    background: blue;
+	    height: 45px;
+	    margin-top: 19px;
+	    color: white;
+	    font-family: arial;
+	    font-size: 20px;
+		}
+
+
+	   	button.addBtn:hover {
+	    margin-left: 6px;
+	    border: none;
+	    background: navy;
+	    height: 45px;
+	    margin-top: 19px;
+	    color: white;
+	    font-family: arial;
+	    font-size: 20px;
+		}
+
+
+		button.resetBtn {
+   		margin-left: 0px;
+   		border: none;
+	    background: red;
+	    height: 45px;
+	    margin-top: 19px;
+	    color: white;
+	    font-family: arial;
+	    font-size: 20px;
+		}
+
+		button.resetBtn:hover {
+   		margin-left: 0px;
+   		border: none;
+	    background: maroon;
+	    height: 45px;
+	    margin-top: 19px;
+	    color: white;
+	    font-family: arial;
+	    font-size: 20px;
+		}
+
+		.toDoList {
+	    text-align: center;
+	    font-family: arial;
+	    font-size: 25px;
+	    margin-top: 13px;
+	    margin-left: -56px;
+		}

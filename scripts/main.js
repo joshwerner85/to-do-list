@@ -35,39 +35,4 @@ resetBtn.addEventListener('click', function() {
 
 
 
-
-
-// // Each item should look like this <input type="checkbox">Enter New Item</input>
-// function addNewItem(list) {
-// 	var listItem = document.createElement("li");
-// 	listItem.innerHTML = itemText;
-	 
-// 	list.appendChild(listItem);
-	
-// }
-
-// var inItemText = document.getElementById("inItemText");
-// 	inItemText.focus();
-
-// var btnNew = document.getElementById("btnAdd");
-// inItemText.onkeyup = function(event) {
-
-
-
-// 	if (event.which == 13) {
-// 	var itemText = inItemText.value;
-// 	//var itemText = inItemText.value;
-
-// 	if(!itemText || itemText == "" || itemText == " "){
-// 		return false;
-// 	}
-
-// 	addNewItem(document.getElementById("todoList"), itemText);
-
-// 	inItemText.focus();
-// 	inItemText.select();
-
-// 	}
-// };
-
-
+ 
